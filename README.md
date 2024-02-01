@@ -1,2 +1,2 @@
 # AmazonIndia
-)Clone of Amazon.in(No js)
+Clone of Amazon.in(No js)
